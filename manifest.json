@@ -1,0 +1,13 @@
+{
+  "display_name": "Impersonate Connection",
+  "loading_order": 100,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "Community",
+  "homePage": "https://github.com/suirenv310/ST-impersonate-connection",
+  "version": "1.0.1",
+  "minimum_client_version": "1.19.0",
+  "generate_interceptor": "impersonateConnectionGuard"
+}

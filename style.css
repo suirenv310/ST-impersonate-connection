@@ -1,0 +1,4 @@
+#impersonate-connection label:not(.checkbox_label) { display: block; margin: 0.6em 0; }
+#impersonate-connection .text_pole { width: 100%; }
+#impersonate-connection .ic-buttons { display: flex; flex-wrap: wrap; gap: 0.5em; }
+#impersonate-connection p { font-size: 0.9em; opacity: 0.85; }
